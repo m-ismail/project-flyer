@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('pages.home');
+    return 'ok';
+    //return view('pages.home');
 });
 
 
