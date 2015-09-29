@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return 'okkkkkkkkkkkkkkk';
+    return 'New Repo';
     //return view('pages.home');
 });
 
